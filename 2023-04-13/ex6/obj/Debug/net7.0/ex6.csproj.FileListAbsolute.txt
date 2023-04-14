@@ -13,3 +13,18 @@ C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Lista\ex6\obj\Debug\net7.0\re
 C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Lista\ex6\obj\Debug\net7.0\ex6.pdb
 C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Lista\ex6\obj\Debug\net7.0\ex6.genruntimeconfig.cache
 C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Lista\ex6\obj\Debug\net7.0\ref\ex6.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-13\ex6\bin\Debug\net7.0\ex6.exe
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-13\ex6\bin\Debug\net7.0\ex6.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-13\ex6\bin\Debug\net7.0\ex6.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-13\ex6\bin\Debug\net7.0\ex6.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-13\ex6\bin\Debug\net7.0\ex6.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-13\ex6\obj\Debug\net7.0\ex6.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-13\ex6\obj\Debug\net7.0\ex6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-13\ex6\obj\Debug\net7.0\ex6.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-13\ex6\obj\Debug\net7.0\ex6.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-13\ex6\obj\Debug\net7.0\ex6.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-13\ex6\obj\Debug\net7.0\ex6.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-13\ex6\obj\Debug\net7.0\refint\ex6.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-13\ex6\obj\Debug\net7.0\ex6.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-13\ex6\obj\Debug\net7.0\ex6.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-13\ex6\obj\Debug\net7.0\ref\ex6.dll

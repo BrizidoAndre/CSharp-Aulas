@@ -14,9 +14,14 @@ static float CalculadorPreco(float dMaior, float dMenor, float preco, int litro)
 float gPreco = 0;
 float gMenor = 0;
 float gMaior = 0;
-Console.WriteLine(@$"Bem Vindo, digite o tipo de combustível que deseja
+Console.WriteLine(@$"
+_______________________________________________________
+Bem Vindo, digite o tipo de combustível que deseja:
+
 G - Gasolina
-A - Álcool");
+
+A - Álcool
+");
 char combustivel = char.Parse(Console.ReadLine().ToLower());
 
 switch (combustivel)
