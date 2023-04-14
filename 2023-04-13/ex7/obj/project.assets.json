@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\51910007811\\Desktop\\Nova pasta\\13-04-2023\\Lista\\ex7\\ex7.csproj",
+      "projectUniqueName": "C:\\Users\\51910007811\\Desktop\\Nova pasta\\C# Exercícios\\2023-04-13\\ex7\\ex7.csproj",
       "projectName": "ex7",
-      "projectPath": "C:\\Users\\51910007811\\Desktop\\Nova pasta\\13-04-2023\\Lista\\ex7\\ex7.csproj",
+      "projectPath": "C:\\Users\\51910007811\\Desktop\\Nova pasta\\C# Exercícios\\2023-04-13\\ex7\\ex7.csproj",
       "packagesPath": "C:\\Users\\51910007811\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\51910007811\\Desktop\\Nova pasta\\13-04-2023\\Lista\\ex7\\obj\\",
+      "outputPath": "C:\\Users\\51910007811\\Desktop\\Nova pasta\\C# Exercícios\\2023-04-13\\ex7\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\51910007811\\AppData\\Roaming\\NuGet\\NuGet.Config",
