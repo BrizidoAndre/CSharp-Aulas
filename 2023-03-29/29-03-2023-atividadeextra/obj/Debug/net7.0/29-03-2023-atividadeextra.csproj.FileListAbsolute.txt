@@ -1,0 +1,15 @@
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividadeextra\bin\Debug\net7.0\29-03-2023-atividadeextra.exe
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividadeextra\bin\Debug\net7.0\29-03-2023-atividadeextra.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividadeextra\bin\Debug\net7.0\29-03-2023-atividadeextra.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividadeextra\bin\Debug\net7.0\29-03-2023-atividadeextra.dll
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividadeextra\bin\Debug\net7.0\29-03-2023-atividadeextra.pdb
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividadeextra\obj\Debug\net7.0\29-03-2023-atividadeextra.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividadeextra\obj\Debug\net7.0\29-03-2023-atividadeextra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividadeextra\obj\Debug\net7.0\29-03-2023-atividadeextra.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividadeextra\obj\Debug\net7.0\29-03-2023-atividadeextra.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividadeextra\obj\Debug\net7.0\29-03-2023-atividadeextra.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividadeextra\obj\Debug\net7.0\29-03-2023-atividadeextra.dll
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividadeextra\obj\Debug\net7.0\refint\29-03-2023-atividadeextra.dll
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividadeextra\obj\Debug\net7.0\29-03-2023-atividadeextra.pdb
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividadeextra\obj\Debug\net7.0\29-03-2023-atividadeextra.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividadeextra\obj\Debug\net7.0\ref\29-03-2023-atividadeextra.dll

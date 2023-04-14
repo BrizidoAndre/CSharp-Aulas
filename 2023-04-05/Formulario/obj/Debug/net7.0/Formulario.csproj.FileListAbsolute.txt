@@ -1,0 +1,15 @@
+C:\Users\51910007811\Desktop\Nova pasta\05-04-2023\Formulario\bin\Debug\net7.0\Formulario.exe
+C:\Users\51910007811\Desktop\Nova pasta\05-04-2023\Formulario\bin\Debug\net7.0\Formulario.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\05-04-2023\Formulario\bin\Debug\net7.0\Formulario.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\05-04-2023\Formulario\bin\Debug\net7.0\Formulario.dll
+C:\Users\51910007811\Desktop\Nova pasta\05-04-2023\Formulario\bin\Debug\net7.0\Formulario.pdb
+C:\Users\51910007811\Desktop\Nova pasta\05-04-2023\Formulario\obj\Debug\net7.0\Formulario.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\05-04-2023\Formulario\obj\Debug\net7.0\Formulario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\05-04-2023\Formulario\obj\Debug\net7.0\Formulario.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\05-04-2023\Formulario\obj\Debug\net7.0\Formulario.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\05-04-2023\Formulario\obj\Debug\net7.0\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\05-04-2023\Formulario\obj\Debug\net7.0\Formulario.dll
+C:\Users\51910007811\Desktop\Nova pasta\05-04-2023\Formulario\obj\Debug\net7.0\refint\Formulario.dll
+C:\Users\51910007811\Desktop\Nova pasta\05-04-2023\Formulario\obj\Debug\net7.0\Formulario.pdb
+C:\Users\51910007811\Desktop\Nova pasta\05-04-2023\Formulario\obj\Debug\net7.0\Formulario.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\05-04-2023\Formulario\obj\Debug\net7.0\ref\Formulario.dll

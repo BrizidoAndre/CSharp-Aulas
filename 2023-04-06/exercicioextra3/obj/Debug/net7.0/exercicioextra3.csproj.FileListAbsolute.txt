@@ -1,0 +1,15 @@
+C:\Users\51910007811\Desktop\Nova pasta\06-04-2023\exercicioextra3\obj\Debug\net7.0\exercicioextra3.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\06-04-2023\exercicioextra3\obj\Debug\net7.0\exercicioextra3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\06-04-2023\exercicioextra3\obj\Debug\net7.0\exercicioextra3.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\06-04-2023\exercicioextra3\obj\Debug\net7.0\exercicioextra3.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\06-04-2023\exercicioextra3\obj\Debug\net7.0\exercicioextra3.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\06-04-2023\exercicioextra3\bin\Debug\net7.0\exercicioextra3.exe
+C:\Users\51910007811\Desktop\Nova pasta\06-04-2023\exercicioextra3\bin\Debug\net7.0\exercicioextra3.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\06-04-2023\exercicioextra3\bin\Debug\net7.0\exercicioextra3.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\06-04-2023\exercicioextra3\bin\Debug\net7.0\exercicioextra3.dll
+C:\Users\51910007811\Desktop\Nova pasta\06-04-2023\exercicioextra3\bin\Debug\net7.0\exercicioextra3.pdb
+C:\Users\51910007811\Desktop\Nova pasta\06-04-2023\exercicioextra3\obj\Debug\net7.0\exercicioextra3.dll
+C:\Users\51910007811\Desktop\Nova pasta\06-04-2023\exercicioextra3\obj\Debug\net7.0\refint\exercicioextra3.dll
+C:\Users\51910007811\Desktop\Nova pasta\06-04-2023\exercicioextra3\obj\Debug\net7.0\exercicioextra3.pdb
+C:\Users\51910007811\Desktop\Nova pasta\06-04-2023\exercicioextra3\obj\Debug\net7.0\exercicioextra3.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\06-04-2023\exercicioextra3\obj\Debug\net7.0\ref\exercicioextra3.dll

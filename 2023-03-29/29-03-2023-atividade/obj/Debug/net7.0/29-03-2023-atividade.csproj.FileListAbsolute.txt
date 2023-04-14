@@ -1,0 +1,15 @@
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividade\bin\Debug\net7.0\29-03-2023-atividade.exe
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividade\bin\Debug\net7.0\29-03-2023-atividade.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividade\bin\Debug\net7.0\29-03-2023-atividade.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividade\bin\Debug\net7.0\29-03-2023-atividade.dll
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividade\bin\Debug\net7.0\29-03-2023-atividade.pdb
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividade\obj\Debug\net7.0\29-03-2023-atividade.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividade\obj\Debug\net7.0\29-03-2023-atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividade\obj\Debug\net7.0\29-03-2023-atividade.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividade\obj\Debug\net7.0\29-03-2023-atividade.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividade\obj\Debug\net7.0\29-03-2023-atividade.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividade\obj\Debug\net7.0\29-03-2023-atividade.dll
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividade\obj\Debug\net7.0\refint\29-03-2023-atividade.dll
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividade\obj\Debug\net7.0\29-03-2023-atividade.pdb
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividade\obj\Debug\net7.0\29-03-2023-atividade.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\29-03-2023-atividade\obj\Debug\net7.0\ref\29-03-2023-atividade.dll

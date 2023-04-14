@@ -1,0 +1,15 @@
+C:\Users\51910007811\Desktop\Nova pasta\31-03-2023-lista\Exercicio2\bin\Debug\net7.0\Exercicio2.exe
+C:\Users\51910007811\Desktop\Nova pasta\31-03-2023-lista\Exercicio2\bin\Debug\net7.0\Exercicio2.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\31-03-2023-lista\Exercicio2\bin\Debug\net7.0\Exercicio2.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\31-03-2023-lista\Exercicio2\bin\Debug\net7.0\Exercicio2.dll
+C:\Users\51910007811\Desktop\Nova pasta\31-03-2023-lista\Exercicio2\bin\Debug\net7.0\Exercicio2.pdb
+C:\Users\51910007811\Desktop\Nova pasta\31-03-2023-lista\Exercicio2\obj\Debug\net7.0\Exercicio2.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\31-03-2023-lista\Exercicio2\obj\Debug\net7.0\Exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\31-03-2023-lista\Exercicio2\obj\Debug\net7.0\Exercicio2.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\31-03-2023-lista\Exercicio2\obj\Debug\net7.0\Exercicio2.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\31-03-2023-lista\Exercicio2\obj\Debug\net7.0\Exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\31-03-2023-lista\Exercicio2\obj\Debug\net7.0\Exercicio2.dll
+C:\Users\51910007811\Desktop\Nova pasta\31-03-2023-lista\Exercicio2\obj\Debug\net7.0\refint\Exercicio2.dll
+C:\Users\51910007811\Desktop\Nova pasta\31-03-2023-lista\Exercicio2\obj\Debug\net7.0\Exercicio2.pdb
+C:\Users\51910007811\Desktop\Nova pasta\31-03-2023-lista\Exercicio2\obj\Debug\net7.0\Exercicio2.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\31-03-2023-lista\Exercicio2\obj\Debug\net7.0\ref\Exercicio2.dll

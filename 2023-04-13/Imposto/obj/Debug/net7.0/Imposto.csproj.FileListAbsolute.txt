@@ -1,0 +1,15 @@
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Imposto\bin\Debug\net7.0\Imposto.exe
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Imposto\bin\Debug\net7.0\Imposto.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Imposto\bin\Debug\net7.0\Imposto.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Imposto\bin\Debug\net7.0\Imposto.dll
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Imposto\bin\Debug\net7.0\Imposto.pdb
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Imposto\obj\Debug\net7.0\Imposto.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Imposto\obj\Debug\net7.0\Imposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Imposto\obj\Debug\net7.0\Imposto.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Imposto\obj\Debug\net7.0\Imposto.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Imposto\obj\Debug\net7.0\Imposto.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Imposto\obj\Debug\net7.0\Imposto.dll
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Imposto\obj\Debug\net7.0\refint\Imposto.dll
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Imposto\obj\Debug\net7.0\Imposto.pdb
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Imposto\obj\Debug\net7.0\Imposto.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Imposto\obj\Debug\net7.0\ref\Imposto.dll

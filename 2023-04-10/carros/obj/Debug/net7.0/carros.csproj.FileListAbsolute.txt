@@ -1,0 +1,15 @@
+C:\Users\51910007811\Desktop\Nova pasta\10-04-2023\carros\bin\Debug\net7.0\carros.exe
+C:\Users\51910007811\Desktop\Nova pasta\10-04-2023\carros\bin\Debug\net7.0\carros.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\10-04-2023\carros\bin\Debug\net7.0\carros.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\10-04-2023\carros\bin\Debug\net7.0\carros.dll
+C:\Users\51910007811\Desktop\Nova pasta\10-04-2023\carros\bin\Debug\net7.0\carros.pdb
+C:\Users\51910007811\Desktop\Nova pasta\10-04-2023\carros\obj\Debug\net7.0\carros.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\10-04-2023\carros\obj\Debug\net7.0\carros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\10-04-2023\carros\obj\Debug\net7.0\carros.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\10-04-2023\carros\obj\Debug\net7.0\carros.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\10-04-2023\carros\obj\Debug\net7.0\carros.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\10-04-2023\carros\obj\Debug\net7.0\carros.dll
+C:\Users\51910007811\Desktop\Nova pasta\10-04-2023\carros\obj\Debug\net7.0\refint\carros.dll
+C:\Users\51910007811\Desktop\Nova pasta\10-04-2023\carros\obj\Debug\net7.0\carros.pdb
+C:\Users\51910007811\Desktop\Nova pasta\10-04-2023\carros\obj\Debug\net7.0\carros.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\10-04-2023\carros\obj\Debug\net7.0\ref\carros.dll

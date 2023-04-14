@@ -1,0 +1,15 @@
+C:\Users\51910007811\Desktop\Nova pasta\04-04-2023\FuncaoWhile\bin\Debug\net7.0\FuncaoWhile.exe
+C:\Users\51910007811\Desktop\Nova pasta\04-04-2023\FuncaoWhile\bin\Debug\net7.0\FuncaoWhile.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\04-04-2023\FuncaoWhile\bin\Debug\net7.0\FuncaoWhile.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\04-04-2023\FuncaoWhile\bin\Debug\net7.0\FuncaoWhile.dll
+C:\Users\51910007811\Desktop\Nova pasta\04-04-2023\FuncaoWhile\bin\Debug\net7.0\FuncaoWhile.pdb
+C:\Users\51910007811\Desktop\Nova pasta\04-04-2023\FuncaoWhile\obj\Debug\net7.0\FuncaoWhile.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\04-04-2023\FuncaoWhile\obj\Debug\net7.0\FuncaoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\04-04-2023\FuncaoWhile\obj\Debug\net7.0\FuncaoWhile.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\04-04-2023\FuncaoWhile\obj\Debug\net7.0\FuncaoWhile.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\04-04-2023\FuncaoWhile\obj\Debug\net7.0\FuncaoWhile.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\04-04-2023\FuncaoWhile\obj\Debug\net7.0\FuncaoWhile.dll
+C:\Users\51910007811\Desktop\Nova pasta\04-04-2023\FuncaoWhile\obj\Debug\net7.0\refint\FuncaoWhile.dll
+C:\Users\51910007811\Desktop\Nova pasta\04-04-2023\FuncaoWhile\obj\Debug\net7.0\FuncaoWhile.pdb
+C:\Users\51910007811\Desktop\Nova pasta\04-04-2023\FuncaoWhile\obj\Debug\net7.0\FuncaoWhile.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\04-04-2023\FuncaoWhile\obj\Debug\net7.0\ref\FuncaoWhile.dll

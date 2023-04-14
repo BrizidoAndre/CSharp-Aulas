@@ -1,0 +1,15 @@
+C:\Users\51910007811\Desktop\Nova pasta\12-04-2023\telacarregando\bin\Debug\net7.0\telacarregando.exe
+C:\Users\51910007811\Desktop\Nova pasta\12-04-2023\telacarregando\bin\Debug\net7.0\telacarregando.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\12-04-2023\telacarregando\bin\Debug\net7.0\telacarregando.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\12-04-2023\telacarregando\bin\Debug\net7.0\telacarregando.dll
+C:\Users\51910007811\Desktop\Nova pasta\12-04-2023\telacarregando\bin\Debug\net7.0\telacarregando.pdb
+C:\Users\51910007811\Desktop\Nova pasta\12-04-2023\telacarregando\obj\Debug\net7.0\telacarregando.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\12-04-2023\telacarregando\obj\Debug\net7.0\telacarregando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\12-04-2023\telacarregando\obj\Debug\net7.0\telacarregando.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\12-04-2023\telacarregando\obj\Debug\net7.0\telacarregando.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\12-04-2023\telacarregando\obj\Debug\net7.0\telacarregando.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\12-04-2023\telacarregando\obj\Debug\net7.0\telacarregando.dll
+C:\Users\51910007811\Desktop\Nova pasta\12-04-2023\telacarregando\obj\Debug\net7.0\refint\telacarregando.dll
+C:\Users\51910007811\Desktop\Nova pasta\12-04-2023\telacarregando\obj\Debug\net7.0\telacarregando.pdb
+C:\Users\51910007811\Desktop\Nova pasta\12-04-2023\telacarregando\obj\Debug\net7.0\telacarregando.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\12-04-2023\telacarregando\obj\Debug\net7.0\ref\telacarregando.dll

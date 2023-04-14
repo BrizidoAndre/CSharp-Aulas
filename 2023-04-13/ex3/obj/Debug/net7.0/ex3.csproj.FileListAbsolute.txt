@@ -1,0 +1,15 @@
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Lista\ex3\bin\Debug\net7.0\ex3.exe
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Lista\ex3\bin\Debug\net7.0\ex3.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Lista\ex3\bin\Debug\net7.0\ex3.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Lista\ex3\bin\Debug\net7.0\ex3.dll
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Lista\ex3\bin\Debug\net7.0\ex3.pdb
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Lista\ex3\obj\Debug\net7.0\ex3.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Lista\ex3\obj\Debug\net7.0\ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Lista\ex3\obj\Debug\net7.0\ex3.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Lista\ex3\obj\Debug\net7.0\ex3.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Lista\ex3\obj\Debug\net7.0\ex3.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Lista\ex3\obj\Debug\net7.0\ex3.dll
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Lista\ex3\obj\Debug\net7.0\refint\ex3.dll
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Lista\ex3\obj\Debug\net7.0\ex3.pdb
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Lista\ex3\obj\Debug\net7.0\ex3.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\13-04-2023\Lista\ex3\obj\Debug\net7.0\ref\ex3.dll
