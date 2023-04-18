@@ -1,4 +1,5 @@
 ﻿const string senha = "123456";
+string resposta = "s";
 string[] nome = new string[5];
 string[] origem = new string[5];
 string[] destino = new string[5];
@@ -42,6 +43,8 @@ while (true)
     switch (menu)
     {
         case 1:
+        do
+        {
         for (var i = 0; i < 5; i++)  
         {
             Console.WriteLine($"Qual o nome do passageiro");
@@ -55,7 +58,11 @@ while (true)
 
             Console.WriteLine($"Quando voce ira partir");
             data[i] = new string(Console.ReadLine());
-        }
+        Console.WriteLine($"Voce quer cadastrar uma nova passagem ");
+        resposta = Console.ReadLine().ToLower();
+        } 
+        }while (resposta == "s");     
+        
         break;
         case 2:
             for (var i = 0; i < nome.Length; i++)

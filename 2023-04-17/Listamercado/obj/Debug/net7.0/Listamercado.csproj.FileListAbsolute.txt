@@ -1,0 +1,15 @@
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Listamercado\bin\Debug\net7.0\Listamercado.exe
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Listamercado\bin\Debug\net7.0\Listamercado.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Listamercado\bin\Debug\net7.0\Listamercado.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Listamercado\bin\Debug\net7.0\Listamercado.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Listamercado\bin\Debug\net7.0\Listamercado.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Listamercado\obj\Debug\net7.0\Listamercado.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Listamercado\obj\Debug\net7.0\Listamercado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Listamercado\obj\Debug\net7.0\Listamercado.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Listamercado\obj\Debug\net7.0\Listamercado.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Listamercado\obj\Debug\net7.0\Listamercado.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Listamercado\obj\Debug\net7.0\Listamercado.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Listamercado\obj\Debug\net7.0\refint\Listamercado.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Listamercado\obj\Debug\net7.0\Listamercado.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Listamercado\obj\Debug\net7.0\Listamercado.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Listamercado\obj\Debug\net7.0\ref\Listamercado.dll
