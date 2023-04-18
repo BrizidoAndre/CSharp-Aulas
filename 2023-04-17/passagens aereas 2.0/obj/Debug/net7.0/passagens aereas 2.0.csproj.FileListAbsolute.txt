@@ -1,0 +1,15 @@
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas 2.0\bin\Debug\net7.0\passagens aereas 2.0.exe
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas 2.0\bin\Debug\net7.0\passagens aereas 2.0.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas 2.0\bin\Debug\net7.0\passagens aereas 2.0.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas 2.0\bin\Debug\net7.0\passagens aereas 2.0.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas 2.0\bin\Debug\net7.0\passagens aereas 2.0.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas 2.0\obj\Debug\net7.0\passagens aereas 2.0.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas 2.0\obj\Debug\net7.0\passagens aereas 2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas 2.0\obj\Debug\net7.0\passagens aereas 2.0.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas 2.0\obj\Debug\net7.0\passagens aereas 2.0.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas 2.0\obj\Debug\net7.0\passagens aereas 2.0.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas 2.0\obj\Debug\net7.0\passagens aereas 2.0.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas 2.0\obj\Debug\net7.0\refint\passagens aereas 2.0.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas 2.0\obj\Debug\net7.0\passagens aereas 2.0.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas 2.0\obj\Debug\net7.0\passagens aereas 2.0.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas 2.0\obj\Debug\net7.0\ref\passagens aereas 2.0.dll
