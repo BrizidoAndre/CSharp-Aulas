@@ -1,0 +1,15 @@
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas - ex professor\bin\Debug\net7.0\passagens aereas - ex professor.exe
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas - ex professor\bin\Debug\net7.0\passagens aereas - ex professor.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas - ex professor\bin\Debug\net7.0\passagens aereas - ex professor.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas - ex professor\bin\Debug\net7.0\passagens aereas - ex professor.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas - ex professor\bin\Debug\net7.0\passagens aereas - ex professor.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas - ex professor\obj\Debug\net7.0\passagens aereas - ex professor.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas - ex professor\obj\Debug\net7.0\passagens aereas - ex professor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas - ex professor\obj\Debug\net7.0\passagens aereas - ex professor.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas - ex professor\obj\Debug\net7.0\passagens aereas - ex professor.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas - ex professor\obj\Debug\net7.0\passagens aereas - ex professor.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas - ex professor\obj\Debug\net7.0\passagens aereas - ex professor.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas - ex professor\obj\Debug\net7.0\refint\passagens aereas - ex professor.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas - ex professor\obj\Debug\net7.0\passagens aereas - ex professor.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas - ex professor\obj\Debug\net7.0\passagens aereas - ex professor.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\passagens aereas - ex professor\obj\Debug\net7.0\ref\passagens aereas - ex professor.dll

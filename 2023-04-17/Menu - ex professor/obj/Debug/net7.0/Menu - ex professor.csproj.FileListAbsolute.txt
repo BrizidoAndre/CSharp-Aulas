@@ -1,0 +1,15 @@
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Menu - ex professor\bin\Debug\net7.0\Menu - ex professor.exe
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Menu - ex professor\bin\Debug\net7.0\Menu - ex professor.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Menu - ex professor\bin\Debug\net7.0\Menu - ex professor.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Menu - ex professor\bin\Debug\net7.0\Menu - ex professor.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Menu - ex professor\bin\Debug\net7.0\Menu - ex professor.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Menu - ex professor\obj\Debug\net7.0\Menu - ex professor.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Menu - ex professor\obj\Debug\net7.0\Menu - ex professor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Menu - ex professor\obj\Debug\net7.0\Menu - ex professor.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Menu - ex professor\obj\Debug\net7.0\Menu - ex professor.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Menu - ex professor\obj\Debug\net7.0\Menu - ex professor.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Menu - ex professor\obj\Debug\net7.0\Menu - ex professor.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Menu - ex professor\obj\Debug\net7.0\refint\Menu - ex professor.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Menu - ex professor\obj\Debug\net7.0\Menu - ex professor.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Menu - ex professor\obj\Debug\net7.0\Menu - ex professor.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-17\Menu - ex professor\obj\Debug\net7.0\ref\Menu - ex professor.dll
