@@ -1,0 +1,15 @@
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-24\CadastroAlunos\bin\Debug\net7.0\CadastroAlunos.exe
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-24\CadastroAlunos\bin\Debug\net7.0\CadastroAlunos.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-24\CadastroAlunos\bin\Debug\net7.0\CadastroAlunos.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-24\CadastroAlunos\bin\Debug\net7.0\CadastroAlunos.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-24\CadastroAlunos\bin\Debug\net7.0\CadastroAlunos.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-24\CadastroAlunos\obj\Debug\net7.0\CadastroAlunos.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-24\CadastroAlunos\obj\Debug\net7.0\CadastroAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-24\CadastroAlunos\obj\Debug\net7.0\CadastroAlunos.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-24\CadastroAlunos\obj\Debug\net7.0\CadastroAlunos.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-24\CadastroAlunos\obj\Debug\net7.0\CadastroAlunos.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-24\CadastroAlunos\obj\Debug\net7.0\CadastroAlunos.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-24\CadastroAlunos\obj\Debug\net7.0\refint\CadastroAlunos.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-24\CadastroAlunos\obj\Debug\net7.0\CadastroAlunos.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-24\CadastroAlunos\obj\Debug\net7.0\CadastroAlunos.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-04-24\CadastroAlunos\obj\Debug\net7.0\ref\CadastroAlunos.dll
