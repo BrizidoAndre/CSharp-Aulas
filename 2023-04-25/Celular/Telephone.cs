@@ -1,13 +1,13 @@
 namespace Celular
 {
-    public class Celular
+    public class Telephone
     {
         // PROPRIEDADES
         public string cor = "Preto";
         public string modelo = "Samsung Galaxy J5";
         public string tamanho = "720 x 1280 pixels";
         public string memoria = "16 Gigabytes";
-        public bool ligado = false;
+        public bool ligado = true;
         int chamadas;
         // METODOS
         public void Ligar()
@@ -39,18 +39,35 @@ namespace Celular
             {
                 Console.WriteLine($"Mas que droga, ja e a {chamadas} vez");
             }
+            Console.WriteLine(@$"<CHAMADA ENCERRADA>
+            
+            ");
+            
+            chamadas ++;
             
         }
         public void EnviarMensagem()
         {
+            Console.WriteLine($"Digite a mensagem que deseja enviar:");
+            string mensagem = Console.ReadLine();
 
+            Console.WriteLine(@$"
+-----------
+{mensagem}
+-----------
+MENSAGEM ENVIADA
+
+");
+            
         }
         public void MostrarInformacoes()
         {
+            Console.WriteLine($"--------------------");
             Console.WriteLine(cor);
             Console.WriteLine(modelo);
             Console.WriteLine(tamanho);
             Console.WriteLine(memoria);
+            Console.WriteLine($"--------------------");
         }
     }
 }
