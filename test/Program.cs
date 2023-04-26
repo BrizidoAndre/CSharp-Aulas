@@ -1,2 +1,6 @@
-﻿Console.Title = "Teste";
-Console.WriteLine("Hello, World!");
+﻿using test;
+
+teste test = new teste();
+
+test.Falar();
+test.Falar(20);

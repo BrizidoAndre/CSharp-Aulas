@@ -16,6 +16,7 @@ while(cel.ligado)
 1 - Enviar Mensagem
 2 - Fazer Ligacao
 3 - Mostrar informacoes do dispositivo
+
 0 - Desligar dispositivo");
     opcao = Console.ReadLine();
 
@@ -38,7 +39,10 @@ while(cel.ligado)
             break;
     }
 }    
-Console.WriteLine(@$"Celular desligado. Deseja liga-lo?
+Console.WriteLine(@$"
+
+Celular desligado. Deseja liga-lo?
+
 S para sim
 N para nao");
 string ligar = Console.ReadLine().ToLower();
