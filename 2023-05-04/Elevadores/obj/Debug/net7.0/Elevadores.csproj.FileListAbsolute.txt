@@ -1,0 +1,15 @@
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-04\Elevadores\bin\Debug\net7.0\Elevadores.exe
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-04\Elevadores\bin\Debug\net7.0\Elevadores.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-04\Elevadores\bin\Debug\net7.0\Elevadores.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-04\Elevadores\bin\Debug\net7.0\Elevadores.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-04\Elevadores\bin\Debug\net7.0\Elevadores.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-04\Elevadores\obj\Debug\net7.0\Elevadores.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-04\Elevadores\obj\Debug\net7.0\Elevadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-04\Elevadores\obj\Debug\net7.0\Elevadores.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-04\Elevadores\obj\Debug\net7.0\Elevadores.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-04\Elevadores\obj\Debug\net7.0\Elevadores.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-04\Elevadores\obj\Debug\net7.0\Elevadores.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-04\Elevadores\obj\Debug\net7.0\refint\Elevadores.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-04\Elevadores\obj\Debug\net7.0\Elevadores.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-04\Elevadores\obj\Debug\net7.0\Elevadores.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-04\Elevadores\obj\Debug\net7.0\ref\Elevadores.dll

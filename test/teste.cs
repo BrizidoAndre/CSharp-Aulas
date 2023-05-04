@@ -7,11 +7,11 @@ namespace test
 {
     public class teste
     {
-        public void Falar()
+        protected void Falar()
         {
             Console.WriteLine($"5000");
         }
-        public void Falar(int dado)
+        protected void Falar(int dado)
         {
             Console.WriteLine($"{dado}");
         }
