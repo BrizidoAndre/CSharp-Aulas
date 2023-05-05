@@ -1,0 +1,15 @@
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\MaquinaCafe\bin\Debug\net7.0\MaquinaCafe.exe
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\MaquinaCafe\bin\Debug\net7.0\MaquinaCafe.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\MaquinaCafe\bin\Debug\net7.0\MaquinaCafe.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\MaquinaCafe\bin\Debug\net7.0\MaquinaCafe.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\MaquinaCafe\bin\Debug\net7.0\MaquinaCafe.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\MaquinaCafe\obj\Debug\net7.0\MaquinaCafe.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\MaquinaCafe\obj\Debug\net7.0\MaquinaCafe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\MaquinaCafe\obj\Debug\net7.0\MaquinaCafe.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\MaquinaCafe\obj\Debug\net7.0\MaquinaCafe.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\MaquinaCafe\obj\Debug\net7.0\MaquinaCafe.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\MaquinaCafe\obj\Debug\net7.0\MaquinaCafe.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\MaquinaCafe\obj\Debug\net7.0\refint\MaquinaCafe.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\MaquinaCafe\obj\Debug\net7.0\MaquinaCafe.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\MaquinaCafe\obj\Debug\net7.0\MaquinaCafe.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-05\MaquinaCafe\obj\Debug\net7.0\ref\MaquinaCafe.dll
