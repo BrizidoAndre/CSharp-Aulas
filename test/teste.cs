@@ -1,17 +1,9 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace test
 {
-    public class teste
+    abstract class teste
     {
-        protected void Falar()
-        {
-            Console.WriteLine($"5000");
-        }
-        protected void Falar(int dado)
+        public abstract void Falar();
+        public void Falou(int dado)
         {
             Console.WriteLine($"{dado}");
         }

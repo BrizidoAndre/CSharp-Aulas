@@ -1,6 +1,6 @@
 namespace JogadoresDeFutebol
 {
-    abstract class Jogador
+    public abstract class Jogador
     {
         public string Nome { get; private set; }
         public int DataDeNascimento { get; private set; }
