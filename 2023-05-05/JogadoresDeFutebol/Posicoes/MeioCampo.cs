@@ -5,11 +5,13 @@ using System.Threading.Tasks;
 
 namespace JogadoresDeFutebol
 {
-    public class Ataque : Jogador
+    class MeioCampo : Jogador
     {
+        private int tempoAposentadoria;
+        private int aposentadoria =38;
         public override int CalcularAposentadoria()
         {
-            throw new NotImplementedException();
+            return tempoAposentadoria = aposentadoria - Idade;
         }
     }
 }

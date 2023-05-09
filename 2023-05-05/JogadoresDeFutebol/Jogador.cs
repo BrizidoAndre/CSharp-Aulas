@@ -1,13 +1,14 @@
 namespace JogadoresDeFutebol
 {
-    public abstract class Jogador
+    abstract class Jogador
     {
-        public string Nome { get; private set; }
-        public int DataDeNascimento { get; private set; }
-        public int Idade { get; private set; }
-        public string Nacionalidade { get; private set; }
-        public float Altura { get; private set; }
-        public float Peso { get; private set; }
+        public string Nome { get; set; }
+        public int DataDeNascimento { get; set; }
+        public int Idade { get;  set; } 
+                // Essa propriedade está para ser mudada graças ao método Calcular Idade
+        public string Nacionalidade { get; set; }
+        public float Altura { get; set; }
+        public float Peso { get; set; }
         public void CadastrarJogador()
         {
             Console.WriteLine($"Insira as informações do Jogador");
@@ -24,14 +25,10 @@ namespace JogadoresDeFutebol
             Console.WriteLine($"Qual sua altura?");
             Altura = (float)Math.Round(double.Parse(Console.ReadLine()),2);
 
-
-
-
         }
         public int CalcularIdade()
         {
-            Idade = DataDeNascimento - DateTime.Now.Year;
-            return Idade;
+            return Idade = DateTime.Now.Year - DataDeNascimento;
         }
         public abstract int CalcularAposentadoria();
     }

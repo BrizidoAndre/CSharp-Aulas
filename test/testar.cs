@@ -1,6 +1,6 @@
 namespace test
 {
-    class testar : teste
+    public class testar : teste
     {
         public override void Falar()
         {
