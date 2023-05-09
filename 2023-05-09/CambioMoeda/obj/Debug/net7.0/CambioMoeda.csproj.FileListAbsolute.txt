@@ -1,0 +1,15 @@
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\CambioMoeda\bin\Debug\net7.0\CambioMoeda.exe
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\CambioMoeda\bin\Debug\net7.0\CambioMoeda.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\CambioMoeda\bin\Debug\net7.0\CambioMoeda.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\CambioMoeda\bin\Debug\net7.0\CambioMoeda.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\CambioMoeda\bin\Debug\net7.0\CambioMoeda.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\CambioMoeda\obj\Debug\net7.0\CambioMoeda.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\CambioMoeda\obj\Debug\net7.0\CambioMoeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\CambioMoeda\obj\Debug\net7.0\CambioMoeda.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\CambioMoeda\obj\Debug\net7.0\CambioMoeda.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\CambioMoeda\obj\Debug\net7.0\CambioMoeda.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\CambioMoeda\obj\Debug\net7.0\CambioMoeda.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\CambioMoeda\obj\Debug\net7.0\refint\CambioMoeda.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\CambioMoeda\obj\Debug\net7.0\CambioMoeda.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\CambioMoeda\obj\Debug\net7.0\CambioMoeda.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\CambioMoeda\obj\Debug\net7.0\ref\CambioMoeda.dll

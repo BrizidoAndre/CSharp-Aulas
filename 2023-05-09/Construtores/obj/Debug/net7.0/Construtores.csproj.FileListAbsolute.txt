@@ -1,0 +1,15 @@
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\Construtores\bin\Debug\net7.0\Construtores.exe
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\Construtores\bin\Debug\net7.0\Construtores.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\Construtores\bin\Debug\net7.0\Construtores.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\Construtores\bin\Debug\net7.0\Construtores.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\Construtores\bin\Debug\net7.0\Construtores.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\Construtores\obj\Debug\net7.0\Construtores.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\Construtores\obj\Debug\net7.0\Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\Construtores\obj\Debug\net7.0\Construtores.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\Construtores\obj\Debug\net7.0\Construtores.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\Construtores\obj\Debug\net7.0\Construtores.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\Construtores\obj\Debug\net7.0\Construtores.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\Construtores\obj\Debug\net7.0\refint\Construtores.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\Construtores\obj\Debug\net7.0\Construtores.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\Construtores\obj\Debug\net7.0\Construtores.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-09\Construtores\obj\Debug\net7.0\ref\Construtores.dll
