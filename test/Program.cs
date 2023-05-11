@@ -1,6 +1,3 @@
 ﻿using test;
-testar nome = new testar();
-
-nome.Falar();
-
-nome.Falou(10);
+teste nome = new teste();
+nome.PlaySong();

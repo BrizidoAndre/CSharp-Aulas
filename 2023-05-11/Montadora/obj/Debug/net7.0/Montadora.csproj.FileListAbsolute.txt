@@ -1,0 +1,15 @@
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-11\Montadora\bin\Debug\net7.0\Montadora.exe
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-11\Montadora\bin\Debug\net7.0\Montadora.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-11\Montadora\bin\Debug\net7.0\Montadora.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-11\Montadora\bin\Debug\net7.0\Montadora.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-11\Montadora\bin\Debug\net7.0\Montadora.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-11\Montadora\obj\Debug\net7.0\Montadora.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-11\Montadora\obj\Debug\net7.0\Montadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-11\Montadora\obj\Debug\net7.0\Montadora.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-11\Montadora\obj\Debug\net7.0\Montadora.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-11\Montadora\obj\Debug\net7.0\Montadora.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-11\Montadora\obj\Debug\net7.0\Montadora.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-11\Montadora\obj\Debug\net7.0\refint\Montadora.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-11\Montadora\obj\Debug\net7.0\Montadora.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-11\Montadora\obj\Debug\net7.0\Montadora.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-11\Montadora\obj\Debug\net7.0\ref\Montadora.dll
