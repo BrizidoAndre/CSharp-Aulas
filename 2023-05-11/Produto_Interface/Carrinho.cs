@@ -7,7 +7,7 @@ namespace Produto_Interface
 {
     public class Carrinho : ICarrinho
     {
-        public float Valor { get; set; }
+        public float Valor { get; set; } //Esse e o valor
         List<Produto> carrinho = new List<Produto>();
 
         // Implementar a logica para cada método
@@ -19,7 +19,7 @@ namespace Produto_Interface
 
         public void Listar()
         {
-            if (carrinho != null)
+            if (carrinho.Count > 0 || carrinho != null)
             {
                 foreach (Produto p in carrinho)
                 {
@@ -42,6 +42,22 @@ namespace Produto_Interface
         public void Remover(Produto _produto)
         {
             carrinho.Remove(_produto);
+        }
+        
+        public void ValorTotal()
+        {
+            this.Valor = 0;
+            if (carrinho.Count > 0 || carrinho != null)
+            {
+                foreach (var item in carrinho)
+                {
+                   Valor += item.Preco;
+                }
+                Console.WriteLine($"++++++++++++++++++++++++++++++++++++++++");
+                Console.WriteLine($"O valor total do carrinho e de {Valor:C}");
+                Console.WriteLine($"++++++++++++++++++++++++++++++++++++++++");
+                
+            }
         }
     }
 }
