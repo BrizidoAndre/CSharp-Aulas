@@ -18,6 +18,8 @@ namespace Projeto.Classes
             Console.ResetColor();
             
         }
+        public string logarUsuario { get; private set; }
+        public string logarSenha { get; private set; }
         public bool Logado { get; private set; }
         public Login(bool _logado)
         {
@@ -25,7 +27,9 @@ namespace Projeto.Classes
         }
         public string Logar(Usuario _usuario)
         {
-            
+            Console.WriteLine($"Você está logando no sistema. Por favor digite o usuário");
+            logarUsuario = Console.ReadLine();
+              
         }
         public string Deslogar(Usuario _usuario)
         {

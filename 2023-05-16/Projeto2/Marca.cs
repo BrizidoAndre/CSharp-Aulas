@@ -1,11 +1,26 @@
-namespace Projeto.Classes
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
+
+namespace Projeto2
 {
     public class Marca
     {
+        
         public int Codigo { get; private set; }
         public string NomeMarca { get; private set; }
         public DateTime DataCadastro { get; private set; }
         List<Marca> ListaMarca = new List<Marca>();
+        public Marca()
+        {
+        }
+        public Marca(string _nomeMarca, int _codigoMarca)
+        {
+            NomeMarca = _nomeMarca;
+            Codigo = _codigoMarca;
+            DataCadastro = DateTime.Now;
+        }
         public List<Marca> Listar()
         {
             foreach (var item in ListaMarca)
@@ -17,17 +32,14 @@ namespace Projeto.Classes
             }
             return ListaMarca;
         }
-        public string Cadastrar(Marca _marca)
+        public string Cadastrar()
         {
             Console.WriteLine($"Por favor insira o nome da marca:");
             string nomeDaMarca = Console.ReadLine();
             Console.WriteLine($"Agora insira o codigo da marca (apenas números)");
             int codigoDaMarca = int.Parse(Console.ReadLine());
-            _marca.NomeMarca = nomeDaMarca;
-            _marca.Codigo = codigoDaMarca;
-            _marca.DataCadastro = DateTime.Now;
             ListaMarca.Add(
-                _marca
+                new Marca(nomeDaMarca, codigoDaMarca)
             );
             return "Marca registrada!";
         }
@@ -38,7 +50,6 @@ namespace Projeto.Classes
             _marca = ListaMarca.Find(z => z.Codigo == codigoDaMarca);
             int index = ListaMarca.IndexOf(_marca);
             ListaMarca.RemoveAt(index);
-            ListaMarca.Sort();
             return "Produto deletado!";
         }
     }
