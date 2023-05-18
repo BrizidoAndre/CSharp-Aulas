@@ -13,7 +13,7 @@ namespace Projeto2
             Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine(texto);
             Console.ResetColor();
-            
+
         }
         static void CorVerde(string texto)
         {
@@ -21,7 +21,7 @@ namespace Projeto2
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine(texto);
             Console.ResetColor();
-            
+
         }
         List<Usuario> listaUsuario = new List<Usuario>();
         public Login login { get; private set; }
@@ -32,17 +32,13 @@ namespace Projeto2
         public DateTime DataCadastro { get; private set; }
         public Usuario()
         {
-            Nome = "Andre";
-            Senha = "1234567";
-            Email = "andre@gmail.com";
-            DataCadastro = DateTime.Now;
         }
         public Usuario(string _nomeUsuario, string _senhaUsuario, string _emailUsuario)
         {
             Nome = _nomeUsuario;
             Senha = _senhaUsuario;
             Email = _emailUsuario;
-            DataCadastro = DateTime.Now;   
+            DataCadastro = DateTime.Now;
         }
         public void Cadastrar()
         {
@@ -76,8 +72,33 @@ namespace Projeto2
                 Console.WriteLine($"Nome:  {item.Nome}");
                 Console.WriteLine($"Email: {item.Email}");
                 Console.WriteLine($"Senha: ***********");
-                
+
             }
+        }
+        public bool Logar()
+        {
+            Usuario usuariologar = new Usuario();
+            Console.WriteLine($"Digite o Nome do usuário");
+            string nome = Console.ReadLine();
+            usuariologar = listaUsuario.Find(z => z.Nome == nome);
+            Console.WriteLine($"Agora digite a senha");
+            string senha = Console.ReadLine();
+            if (usuariologar != null && usuariologar.Senha == senha)
+            {
+                Console.WriteLine($"Entrando no portal");
+                return true;
+            }
+            else
+            {
+                Console.WriteLine($"Usuario ou senha não encontrados");
+                return false;
+            }
+
+        }
+        public Usuario IdentificadorUsuario(string _nome)
+        {
+            Usuario usuario = listaUsuario.Find(z => z.Nome == _nome);
+            return usuario;
         }
         public void Deletar()
         {

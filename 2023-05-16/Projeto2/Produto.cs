@@ -30,9 +30,10 @@ namespace Projeto2
         public float Preco { get; private set; }
         public DateTime DataCadastro { get; private set; }
         public Marca Marca { get; private set; }
-        Marca ObjetoMarca = new Marca();
         public Usuario CadastradoPor { get; private set; }
         public List<Produto> ListaDeProdutos { get; private set; }
+        Usuario ObjetoUsuario = new Usuario();
+        Marca ObjetoMarca = new Marca();
         public Produto()
         {
         }
@@ -45,12 +46,11 @@ namespace Projeto2
             Marca = _marca;
             CadastradoPor = _usuario;
         }
-        public string Cadastrar(Produto _produto)
+        public void Cadastrar()
         {
             Console.WriteLine($"Vamos cadastrar o produto!");
             Console.WriteLine($"Qual o nome do produto?");
             string nomeProduto = Console.ReadLine();
-            CorVerde("Nome Registrado!");
             Console.WriteLine($"Qual o código do produto (apenas números)");
             int codigoProduto = int.Parse(Console.ReadLine());
             Console.WriteLine($"Qual o preço do produto?");
@@ -59,15 +59,42 @@ namespace Projeto2
             int codigoMarca = int.Parse(Console.ReadLine());
 
 
+            Marca marca = ObjetoMarca.IdentificadorMarca(codigoMarca);//O ERRO ESTÁ AQUI <<<<<<<<<<<<<<<<<<<<<<<<<<<
 
-            return "";
+
+            CadastradoPor = ObjetoUsuario.IdentificadorUsuario(ObjetoUsuario.Nome);
+            ListaDeProdutos.Add(new Produto(nomeProduto, codigoProduto, precoProduto, marca, CadastradoPor));
         }
-        public List<Produto> Listar()
+        public void Listar()
         {
-            return ListaDeProdutos;
+
+            Console.WriteLine($"Lista de produtos cadastrados:");
+            foreach (var item in ListaDeProdutos)
+            {
+                Console.WriteLine(@$"
+Nome:               {item.NomeProduto}
+Codigo:             {item.Codigo}
+Preço:              {item.Preco:C}
+Data do cadastro:   {item.DataCadastro}
++++++++++++++++++++++++++++++++++++++++
+Marca
+Nome:               {item.Marca.NomeMarca}
+Codigo:             {item.Marca.Codigo}
++++++++++++++++++++++++++++++++++++++++
+Cadastrado por:     {item.CadastradoPor.Nome}
+Email               {item.CadastradoPor.Email}
+"); 
+            }
+
         }
-        public string Deletar(Produto _produto)
+        public string Deletar()
         {
+            Console.WriteLine($"Insira o código do produto a ser deletado.");
+            int _codigo = int.Parse(Console.ReadLine());
+            Produto produtodeletado = ListaDeProdutos.Find(z => z.Codigo == _codigo);
+            int index = ListaDeProdutos.IndexOf(produtodeletado);
+            ListaDeProdutos.RemoveAt(index);
+            CorAmarela("Produto Deletado");
             return "";
         }
     }
