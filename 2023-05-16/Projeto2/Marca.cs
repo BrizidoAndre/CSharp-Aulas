@@ -7,28 +7,10 @@ namespace Projeto2
 {
     public class Marca
     {
-
-        static void CorAmarela(string texto)
-        {
-            Console.ResetColor();
-            Console.ForegroundColor = ConsoleColor.Yellow;
-            Console.WriteLine(texto);
-            Console.ResetColor();
-
-        }
-        static void CorVerde(string texto)
-        {
-            Console.ResetColor();
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine(texto);
-            Console.ResetColor();
-
-        }
-
-        public int Codigo { get; private set; }
-        public string NomeMarca { get; private set; }
-        public DateTime DataCadastro { get; private set; }
-        List<Marca> ListaMarca = new List<Marca>();
+        public int Codigo { get; set; }
+        public string NomeMarca { get; set; }
+        public DateTime DataCadastro { get; set; }
+        public static List<Marca> ListaMarca = new List<Marca>();
         public Marca()
         {
         }
@@ -37,7 +19,6 @@ namespace Projeto2
             NomeMarca = _nomeMarca;
             Codigo = _codigoMarca;
             DataCadastro = DateTime.Now;
-            ListaMarca = new List<Marca>();
         }
         public List<Marca> Listar()
         {
@@ -46,20 +27,35 @@ namespace Projeto2
                 Console.WriteLine(@$"
             Codigo:           {item.Codigo}
             Nome da Marca:    {item.NomeMarca}
-            Data do cadastro: {item.DataCadastro}");
+            Data do Cadastro  {item.DataCadastro}
+            ");
             }
             return ListaMarca;
         }
-        public string Cadastrar()
+        public Marca Cadastrar()
         {
-            Console.WriteLine($"Por favor insira o nome da marca:");
-            string nomeDaMarca = Console.ReadLine();
-            Console.WriteLine($"Agora insira o codigo da marca (apenas números)");
-            int codigoDaMarca = int.Parse(Console.ReadLine());
-            ListaMarca.Add(
-                new Marca(nomeDaMarca, codigoDaMarca)
-            );
-            return "Marca registrada!";
+            Marca novaMarca = new Marca();
+
+            Console.WriteLine($"Insira o codigo da marca (apenas números)");
+            novaMarca.Codigo = int.Parse(Console.ReadLine());
+            Marca marcabuscada = ListaMarca.Find(z => z.Codigo == novaMarca.Codigo);
+
+            if (marcabuscada == null)
+            {
+                Console.WriteLine($"Agora insira o nome da marca");
+                novaMarca.NomeMarca = Console.ReadLine();
+                novaMarca.DataCadastro = DateTime.Now.Date;
+                ListaMarca.Add(novaMarca);
+                return (novaMarca);
+            }
+            else
+            {
+                Console.WriteLine($"O objeto já existe!");
+                Console.WriteLine($"Marca:              {marcabuscada.NomeMarca}");
+                Console.WriteLine($"Código:             {marcabuscada.Codigo}");
+                Console.WriteLine($"Data do cadastro    {marcabuscada.DataCadastro}");
+                return marcabuscada;
+            }
         }
         public string Deletar()
         {
@@ -70,30 +66,6 @@ namespace Projeto2
             int index = ListaMarca.IndexOf(_marca);
             ListaMarca.RemoveAt(index);
             return "Produto deletado!";
-        }
-        public Marca IdentificadorMarca(int _codigo)
-        {
-            Marca marca = ListaMarca.Find(z => z.Codigo == _codigo);
-            if (marca == null)
-            {
-                Console.WriteLine($"Digite o nome da marca");
-                this.NomeMarca = Console.ReadLine();
-                CorVerde("Nome registrado!");
-                this.DataCadastro = DateTime.Now;
-                this.Codigo = _codigo;
-                ListaMarca.Add(
-                    new Marca(NomeMarca, Codigo)
-                );
-                return marca;
-            }
-            else
-            {
-                Console.WriteLine($"{marca.NomeMarca} {marca.DataCadastro} {marca.Codigo}");   
-                Console.WriteLine($"A marca já existe");
-                return marca;
-            }
-
-
         }
     }
 }

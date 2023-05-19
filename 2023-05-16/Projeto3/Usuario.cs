@@ -7,6 +7,22 @@ namespace Projeto2
 {
     public class Usuario
     {
+        static void CorAmarela(string texto)
+        {
+            Console.ResetColor();
+            Console.ForegroundColor = ConsoleColor.Yellow;
+            Console.WriteLine(texto);
+            Console.ResetColor();
+
+        }
+        static void CorVerde(string texto)
+        {
+            Console.ResetColor();
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine(texto);
+            Console.ResetColor();
+
+        }
         public List<Usuario> listaUsuario = new List<Usuario>();
         public Login login { get; private set; }
         public int Codigo { get; private set; }
@@ -29,6 +45,7 @@ namespace Projeto2
             Console.WriteLine($"Vamos cadastrar o usuário!");
             Console.WriteLine($"Primeiro Vamos começar com o nome de usuário");
             string nome = Console.ReadLine();
+            CorVerde("Nome registrado!");
             Console.WriteLine($"Por favor, digite o e-mail que será cadastrado com a conta");
             string email = Console.ReadLine();
             while (email.Length < 11 || email.Length > 256)
@@ -43,6 +60,7 @@ namespace Projeto2
                 Console.WriteLine($"A senha não segue os parâmetros indicados, por favor digite novamente");
                 senha = Console.ReadLine();
             }
+            CorVerde("Senha registrada!");
             listaUsuario.Add(
                 new Usuario(nome, senha, email)
             );
@@ -89,8 +107,7 @@ namespace Projeto2
             Usuario _usuario = listaUsuario.Find(z => z.Email == emailUsuario);
             int index = listaUsuario.IndexOf(_usuario);
             listaUsuario.RemoveAt(index);
-            Console.WriteLine($"Usuário removido");
-            
+            CorVerde("Usuário removido!");
         }
     }
 }

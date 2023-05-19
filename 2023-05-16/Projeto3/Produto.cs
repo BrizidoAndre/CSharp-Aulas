@@ -25,56 +25,45 @@ namespace Projeto2
 
         }
 
-        public string NomeProduto { get; set; }
-        public int Codigo { get; set; }
-        public float Preco { get; set; }
-        public List<Produto> ListaDeProdutos = new List<Produto>();
-        public DateTime DataCadastro { get; set; }
-        public Marca Marca { get; set; }        
-        public Usuario CadastradoPor { get; set; }
-        // public Produto()
-        // {
-        // }
-        // public Produto(string _nomeProduto, int _codigoProduto, float _precoProduto, Marca _marca, Usuario _usuario)
-        // {
-        //     NomeProduto = _nomeProduto;
-        //     Codigo = _codigoProduto;
-        //     Preco = _precoProduto;
-        //     DataCadastro = DateTime.Now;
-        //     Marca = _marca;
-        //     CadastradoPor = _usuario;
-        // }
-        // public void teste()
-        // {
-        //     Marca = ObjetoMarca;
-        // }
-
-        Marca m = new Marca();
+        public string NomeProduto { get; private set; }
+        public int Codigo { get; private set; }
+        public float Preco { get; private set; }
+        public List<Produto> ListaDeProdutos { get; private set; }
+        public DateTime DataCadastro { get; private set; }
+        public Marca Marca { get; private set; }
+        Marca ObjetoMarca = new Marca();
+        public Usuario CadastradoPor { get; private set; }
+        public Produto()
+        {
+        }
+        public Produto(string _nomeProduto, int _codigoProduto, float _precoProduto, Marca _marca, Usuario _usuario)
+        {
+            NomeProduto = _nomeProduto;
+            Codigo = _codigoProduto;
+            Preco = _precoProduto;
+            DataCadastro = DateTime.Now;
+            Marca = _marca;
+            CadastradoPor = _usuario;
+        }
+        public void teste()
+        {
+            Marca = ObjetoMarca;
+        }
         public void Cadastrar()
         {
-            Produto novoProduto = new Produto();
-
             Console.WriteLine($"Vamos cadastrar o produto!");
-
             Console.WriteLine($"Qual o nome do produto?");
-            novoProduto.NomeProduto = Console.ReadLine();
-
-
+            string nomeProduto = Console.ReadLine();
             Console.WriteLine($"Qual o código do produto (apenas números)");
-            novoProduto.Codigo = int.Parse(Console.ReadLine());
-
-
+            int codigoProduto = int.Parse(Console.ReadLine());
             Console.WriteLine($"Qual o preço do produto?");
-            novoProduto.Preco = float.Parse(Console.ReadLine());
-            novoProduto.DataCadastro = DateTime.Now.Date;
+            float precoProduto = float.Parse(Console.ReadLine());
+            Console.WriteLine($"Qual o código da marca?");
+            int codigoMarca = int.Parse(Console.ReadLine());
+            Marca marca = Marca.IdentificadorMarca(codigoMarca);
 
-            novoProduto.Marca = m.Cadastrar();
-
-
-            ListaDeProdutos.Add(novoProduto);            
-
-            // CadastradoPor = CadastradoPor.IdentificadorUsuario("andre");
-            // ListaDeProdutos.Add(new Produto(nomeProduto, codigoProduto, precoProduto, marca, CadastradoPor));
+            CadastradoPor = CadastradoPor.IdentificadorUsuario("andre");
+            ListaDeProdutos.Add(new Produto(nomeProduto, codigoProduto, precoProduto, marca, CadastradoPor));
         }
         public void Listar()
         {
@@ -83,7 +72,6 @@ namespace Projeto2
             foreach (var item in ListaDeProdutos)
             {
                 Console.WriteLine(@$"
-Produto
 Nome:               {item.NomeProduto}
 Codigo:             {item.Codigo}
 Preço:              {item.Preco:C}
@@ -92,9 +80,9 @@ Data do cadastro:   {item.DataCadastro}
 Marca
 Nome:               {item.Marca.NomeMarca}
 Codigo:             {item.Marca.Codigo}
-Data do Cadastro    {item.Marca.DataCadastro}
 +++++++++++++++++++++++++++++++++++++++
-
+Cadastrado por:     {item.CadastradoPor.Nome}
+Email               {item.CadastradoPor.Email}
 "); 
             }
 

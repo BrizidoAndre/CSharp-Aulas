@@ -1,0 +1,15 @@
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-16\Projeto2\bin\Debug\net7.0\Projeto2.exe
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-16\Projeto2\bin\Debug\net7.0\Projeto2.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-16\Projeto2\bin\Debug\net7.0\Projeto2.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-16\Projeto2\bin\Debug\net7.0\Projeto2.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-16\Projeto2\bin\Debug\net7.0\Projeto2.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-16\Projeto2\obj\Debug\net7.0\Projeto2.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-16\Projeto2\obj\Debug\net7.0\Projeto2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-16\Projeto2\obj\Debug\net7.0\Projeto2.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-16\Projeto2\obj\Debug\net7.0\Projeto2.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-16\Projeto2\obj\Debug\net7.0\Projeto2.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-16\Projeto2\obj\Debug\net7.0\Projeto2.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-16\Projeto2\obj\Debug\net7.0\refint\Projeto2.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-16\Projeto2\obj\Debug\net7.0\Projeto2.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-16\Projeto2\obj\Debug\net7.0\Projeto2.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-16\Projeto2\obj\Debug\net7.0\ref\Projeto2.dll
