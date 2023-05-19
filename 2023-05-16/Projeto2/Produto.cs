@@ -32,8 +32,6 @@ namespace Projeto2
         public Marca Marca { get; private set; }
         public Usuario CadastradoPor { get; private set; }
         public List<Produto> ListaDeProdutos { get; private set; }
-        Usuario ObjetoUsuario = new Usuario();
-        Marca ObjetoMarca = new Marca();
         public Produto()
         {
         }
@@ -57,12 +55,9 @@ namespace Projeto2
             float precoProduto = float.Parse(Console.ReadLine());
             Console.WriteLine($"Qual o código da marca?");
             int codigoMarca = int.Parse(Console.ReadLine());
+            Marca marca = Marca.IdentificadorMarca(codigoMarca);
 
-
-            Marca marca = ObjetoMarca.IdentificadorMarca(codigoMarca);//O ERRO ESTÁ AQUI <<<<<<<<<<<<<<<<<<<<<<<<<<<
-
-
-            CadastradoPor = ObjetoUsuario.IdentificadorUsuario(ObjetoUsuario.Nome);
+            CadastradoPor = CadastradoPor.IdentificadorUsuario("andre");
             ListaDeProdutos.Add(new Produto(nomeProduto, codigoProduto, precoProduto, marca, CadastradoPor));
         }
         public void Listar()

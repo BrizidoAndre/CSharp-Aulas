@@ -23,7 +23,7 @@ namespace Projeto2
             Console.ResetColor();
 
         }
-        List<Usuario> listaUsuario = new List<Usuario>();
+        public List<Usuario> listaUsuario = new List<Usuario>();
         public Login login { get; private set; }
         public int Codigo { get; private set; }
         public string Nome { get; private set; }

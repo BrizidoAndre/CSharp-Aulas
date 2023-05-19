@@ -37,6 +37,7 @@ namespace Projeto2
             NomeMarca = _nomeMarca;
             Codigo = _codigoMarca;
             DataCadastro = DateTime.Now;
+            ListaMarca = new List<Marca>();
         }
         public List<Marca> Listar()
         {
