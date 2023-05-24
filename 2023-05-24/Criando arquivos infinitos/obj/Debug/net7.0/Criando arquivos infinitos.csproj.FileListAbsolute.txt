@@ -1,0 +1,15 @@
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-24\Criando arquivos infinitos\bin\Debug\net7.0\Criando arquivos infinitos.exe
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-24\Criando arquivos infinitos\bin\Debug\net7.0\Criando arquivos infinitos.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-24\Criando arquivos infinitos\bin\Debug\net7.0\Criando arquivos infinitos.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-24\Criando arquivos infinitos\bin\Debug\net7.0\Criando arquivos infinitos.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-24\Criando arquivos infinitos\bin\Debug\net7.0\Criando arquivos infinitos.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-24\Criando arquivos infinitos\obj\Debug\net7.0\Criando arquivos infinitos.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-24\Criando arquivos infinitos\obj\Debug\net7.0\Criando arquivos infinitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-24\Criando arquivos infinitos\obj\Debug\net7.0\Criando arquivos infinitos.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-24\Criando arquivos infinitos\obj\Debug\net7.0\Criando arquivos infinitos.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-24\Criando arquivos infinitos\obj\Debug\net7.0\Criando arquivos infinitos.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-24\Criando arquivos infinitos\obj\Debug\net7.0\Criando arquivos infinitos.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-24\Criando arquivos infinitos\obj\Debug\net7.0\refint\Criando arquivos infinitos.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-24\Criando arquivos infinitos\obj\Debug\net7.0\Criando arquivos infinitos.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-24\Criando arquivos infinitos\obj\Debug\net7.0\Criando arquivos infinitos.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-24\Criando arquivos infinitos\obj\Debug\net7.0\ref\Criando arquivos infinitos.dll

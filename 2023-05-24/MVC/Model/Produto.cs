@@ -31,5 +31,39 @@ namespace MVC.Model
                 File.Create(txt);
             }
         }
+        public List<Produto> Ler()
+        {
+            // instanciar uma lista de produto
+            List<Produto> listProdutos = new List<Produto>();
+
+            // Criando um array de string que recebe cada linha do csv
+            string[] linhas = File.ReadAllLines(PATH);
+
+            // Para a leitura das linhas
+            foreach (string item in linhas)
+            {
+                // Antes do split
+                // 001;Coca;6;50
+
+                // Array que recebe os itens da linha separado por ";"
+                string[] atributos = item.Split(";");
+
+                // Após o split
+                // Atributo[0] = "001"
+                // Atributo[1] = "Coca"
+                // Atributo[2] = "6,50"
+
+                // Instancia de objeto Produto
+                Produto p = new Produto();
+
+                // Atribuir o sdados dentro de um objeto
+                p.Codigo = int.Parse(atributos[0]); //001
+                p.Nome = atributos [1]; //"Coca"
+                p.Preco = float.Parse(atributos[2]); //6.50f
+                listProdutos.Add(p);
+            }
+            // retorna a lista de produtos
+            return listProdutos;
+        }
     }
 }
