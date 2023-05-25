@@ -1,0 +1,15 @@
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-25\MVC_Evento\bin\Debug\net7.0\MVC_Evento.exe
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-25\MVC_Evento\bin\Debug\net7.0\MVC_Evento.deps.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-25\MVC_Evento\bin\Debug\net7.0\MVC_Evento.runtimeconfig.json
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-25\MVC_Evento\bin\Debug\net7.0\MVC_Evento.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-25\MVC_Evento\bin\Debug\net7.0\MVC_Evento.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-25\MVC_Evento\obj\Debug\net7.0\MVC_Evento.csproj.AssemblyReference.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-25\MVC_Evento\obj\Debug\net7.0\MVC_Evento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-25\MVC_Evento\obj\Debug\net7.0\MVC_Evento.AssemblyInfoInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-25\MVC_Evento\obj\Debug\net7.0\MVC_Evento.AssemblyInfo.cs
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-25\MVC_Evento\obj\Debug\net7.0\MVC_Evento.csproj.CoreCompileInputs.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-25\MVC_Evento\obj\Debug\net7.0\MVC_Evento.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-25\MVC_Evento\obj\Debug\net7.0\refint\MVC_Evento.dll
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-25\MVC_Evento\obj\Debug\net7.0\MVC_Evento.pdb
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-25\MVC_Evento\obj\Debug\net7.0\MVC_Evento.genruntimeconfig.cache
+C:\Users\51910007811\Desktop\Nova pasta\C# Exercícios\2023-05-25\MVC_Evento\obj\Debug\net7.0\ref\MVC_Evento.dll
