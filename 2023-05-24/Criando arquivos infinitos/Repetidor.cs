@@ -18,7 +18,7 @@ namespace Criando_arquivos_infinitos
                 NomeArquivo = Arquivo + Numerador.ToString();
                 File.Create(NomeArquivo);
                 Numerador +=1;
-            } while (true);
+            } while (Numerador <10000);
         }
     }
 }
